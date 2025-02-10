@@ -1,0 +1,14 @@
+{
+  "verify": ["delivery"],
+  "address": {
+    "company": "Residence Inn",
+    "street1": "22 Segar St",
+    "street2": "",
+    "city": "Danbury",
+    "state": "CT",
+    "zip": "06810",
+    "country": "US",
+    "phone": "855-782-3877",
+    "email": "shipper@mailinator.com"
+  }
+}
